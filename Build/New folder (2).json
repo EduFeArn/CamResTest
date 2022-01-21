@@ -1,0 +1,16 @@
+{
+"companyName": "EduFeArn",
+"productName": "ARInvite",
+"productVersion": "0.1",
+"dataUrl": "New folder (2).data.unityweb",
+"wasmCodeUrl": "New folder (2).wasm.code.unityweb",
+"wasmFrameworkUrl": "New folder (2).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0","WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
